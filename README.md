@@ -1,4 +1,4 @@
-# flutter_blue_example
+# flutter-blue-sample
 
 Sample Flutter App with Bluetooth LE that scans for Bluetooth LE devices and displays the services published by the devices.
 
